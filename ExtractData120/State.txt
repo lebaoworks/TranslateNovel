@@ -1,0 +1,249 @@
+■対応状況 (動作確認したものや動作報告があったもののみ掲載)
+
+//------------------------------------------------------------------------------
+//-- 汎用 ----------------------------------------------------------------------
+//------------------------------------------------------------------------------
+
+[Ethornell]
+・*.arc
+
+[Majiro]
+・*.arc (TS00等の復号は対応予定なし)
+
+[Nscripter]
+・*.sar
+・*.nsa
+・nscript.dat
+
+[QLIE]
+・*.pack
+
+[RealLive]
+・*.nwk
+・*.nwa (圧縮レベルが4のnwaは未対応)
+・*.ovk
+
+[retouch]
+・*.gyu
+
+[SYSTEM-NNN]
+・*.dwq
+・*.fxf
+・*.gpk
+・*.vaw
+・*.vpk
+・*.wgq
+・*.xtx
+
+[Will]
+・*.arc
+
+[吉里吉里]
+・*.exe
+・*.xp3
+・*.tlg
+
+
+//------------------------------------------------------------------------------
+//-- ブランド別 ----------------------------------------------------------------
+//------------------------------------------------------------------------------
+
+[AcaciaSoft]
+・夏めろ …… *.hxp
+
+[ALcot]
+・Clover Heart's …… *.arc
+・TOYつめちゃいましたっ …… *.arc
+・Triptych …… *.arc
+・なつぽち体験版 …… *.xp3 (natsupochi.tpmがxp3と同フォルダ以下に必要)
+
+[August]
+・月は東に日は西に …… *.nsa
+・夜明け前より瑠璃色な …… *.arc
+・FORTUNE ARTERIAL …… *.arc
+
+[AXL]
+・チュートリアルサマー …… *.arc
+・ひだまり …… *.arc
+・キミの声がきこえる …… *.arc
+
+[CIRCUS]
+・水夏 …… *.CRX
+・水夏A.S.+ …… *.CRX
+・D.C. …… *.CRX
+・D.C.II …… *.CRX
+・エターナルファンタジー …… *.CRX, *.PCK
+・最終試験くじら ～Conservative～ …… *.pak
+・最終試験くじら …… *.pak
+・A.C.D.C Rumbling Angel …… *.pak
+・D.C. Girl's Symphony …… *.pak
+・AR ～忘れられた夏～ …… *.TCD
+・D.C.P.K. …… *.TCD
+
+[Cyc]
+・EXTRAVAGANZA ～蟲愛でる少女～ …… *.dwq, *.fxf, *.gpk, *.vaw, *.vpk, *.wgq, *.xtx
+
+[Digital Cute]
+・むすめーかー …… *.dat, *.tsk, *.tfz, *.tsz
+
+[eufonie]
+・カラフル アクアリウム …… *.pack
+
+[FlyingShine]
+・クライミライ4体験版 …… *.xp3 (xp3dec.tpmがxp3と同フォルダ以下に必要)
+
+[Front Wing]
+・きみはぐ …… *.pack
+
+[HOOK]
+・LikeLife新装版 …… *.dat
+・_summer新装版 …… *.dat
+・FairlyLife …… *.dat
+
+[Innocent Grey]
+・カルタグラ …… *.dat
+・PP -ピアニッシモ- 操リ人形ノ輪舞 …… *.dat
+
+[JANIS]
+・とらいあんぐるハート1・2・3 …… *.px
+・CROSS FIRE …… *.arc
+
+[Le.Chocolat]
+・SWAN SONG体験版 …… *.xp3 (xp3dec.tpmがxp3と同フォルダ以下に必要)
+
+[Leaf]
+・ToHeart2 XRATED …… *.pak
+・君が呼ぶ、メギドの丘で …… *.wmv
+
+[Lump of Sugar]
+・Nursery Rhyme …… *.arc
+・いつか、届く、あの空に。 …… *.arc
+・タユタマ …… *.arc
+
+[minori]
+・ANGEL TYPE …… *.paz (ANGELTYPE.exeがpazと同フォルダに必要)
+・BITTERSWEET FOOLS リパッケージ版 …… *.paz (BSF.exeがpazと同フォルダに必要)
+・Wind -a breath of heart- Re:gratitude …… *.paz (WindRP.exeがpazと同フォルダに必要)
+・はるのあしおと …… *.paz (haruoto.exeがpazと同フォルダに必要)
+・さくらのさくころ …… *.paz (haruotoFD.exeがpazと同フォルダに必要)
+・ef - First Fan Disc …… *.paz (ef_ffd.exeがpazと同フォルダに必要)
+・ef - the first tale. 体験版 …… *.paz (ef_trial.exeがpazと同フォルダに必要)
+・ef - the first tale. …… *.paz
+・ef - Second Fan Mix …… *.paz
+・ef - the latter tale. …… *.paz
+
+[Navel]
+・SHUFFLE! …… *.pac (抽出のみ)
+
+[Nitro+]
+・鬼哭街 …… *.PK2
+・Hello, world. …… *.pak
+・斬魔大聖デモンベイン …… *.pak
+・沙耶の唄 …… *.pak
+・天使ノ二挺拳銃 …… *.npp
+・塵骸魔京 …… *.pak
+・刃鳴散らす …… *.pak
+・竜†恋[Dra+KoI] …… *.pak
+・機神飛翔デモンベイン …… *.pak
+・字祷子D …… *.pak
+・月光のカルネヴァーレ …… *.pak
+
+[Overflow]
+・SummerDays …… *.rio, P1_DATAなどの拡張子がないファイル
+
+[Purple software]
+・まじぷり -Wonder Cradle- …… *.cpz
+・まじぷり ふぁんでぃすく …… *.cpz
+・秋色恋華 …… *.cpz
+・秋色謳華 …… *.cpz
+・あると …… *.cpz
+・みはる ～あるとアナザーストーリー～ …… *.cpz
+・プリミティブリンク …… *.cpz
+・明日の君と逢うために …… *.cpz
+・春色桜瀬 …… *.cpz
+・明日の七海と逢うために …… *.cpz
+
+[Sincere]
+・シンシア …… *.arc
+
+[STRIPE feat.GIGA]
+・すぺしゃりて！体験版 …… *.xp3 (data.tpmがxp3と同フォルダ以下に必要)
+
+[Studio e.go!]
+・IZUMO完全版 …… *.dat
+・IZUMO2 …… *.dat
+・月神楽 …… *.dat
+
+[Sugar Pot]
+・WIZARD GIRL AMBITIOUS …… *.aos
+
+[sum]
+・天狗の八衢 …… *.xp3 (tngmdsty69.tpmがxp3と同フォルダ以下に必要)
+
+[TYPE-MOON]
+・Fate/stay night …… *.xp3 (cxdec.tpmがxp3と同フォルダ以下に必要)
+・Fate/hollow ataraxia …… video.xp3
+
+[XANADU]
+・ときどきパクッちゃお！ …… *.xp3 (krlib.tpmがxp3と同フォルダ以下に必要。oggの復号は未対応)
+・シス×みこ …… *.xp3 (SisuMiko.exeがxp3と同フォルダに必要)
+・ひめしょ！ …… *.xp3 (himesyo.exeがxp3と同フォルダに必要)
+
+[Whirlpool]
+・いな☆こい！～お稲荷さまとモテモテのたたり～ …… *.ypf
+・MagusTale ～世界樹と恋する魔法使い～ …… *.ypf
+
+[Xuse]
+・永遠のアセリア …… *.gd
+・永遠のアセリア EXPANSION …… *.gd
+・スピたん …… *.aif, b0*, bm0000, bv00**, c0*, f0*, IGNR****, k000*
+
+[インターチャネル]
+・CLANNAD …… VOICE.MRG, VOICE2.MRG
+
+[戯画]
+・BALDR FORCE EXE …… *.pac (ボイスやSEは未対応)
+
+[銀時計]
+・がくと！ …… *.ypf
+・おたく☆まっしぐら …… *.ypf
+
+[すたじお緑茶]
+・片恋いの月 …… *.iar, *.war
+・マジカライド …… *.iar, *.war
+
+[たまソフト]
+・LOST CHILD …… *.epk (data.e01～data.e03についてはdata.epkオープン時に自動的に開く)
+
+[ねこねこソフト]
+・銀色完全版 …… *.nsa
+・みずいろ …… *.nsa
+・朱 …… *.nsa
+・ねこねこファンディスク2 …… *.nsa
+・BALDR NEKO FORCE …… *.pac (ボイスやSEは未対応)
+・ラムネ …… *.arc
+・ぷちファンディスクみたいなの …… *.arc
+・Scarlett …… *.arc
+
+[ハイクオソフト]
+・よつのはDVD版 …… *.xp3 (AFX.tpmがxp3と同フォルダ以下に必要)
+・幼なじみとの暮らし方 …… *.xp3
+
+[ぱじゃまソフト]
+・パティシエなにゃんこ …… *.dat
+・プリンセスうぃっちぃず …… *.dat
+・プリズムアーク …… *.dat (battle.datは未対応)
+
+[魔法新撰組]
+・陽だまりの午後 体験版 …… *.exe (vorlimefile.tpmがxp3と同フォルダ以下に必要)
+
+[めろめろキュート]
+・はちゅかの …… *.xp3 (hachukano.exeがxp3と同フォルダに必要)
+
+[ゆずソフト]
+・ぶらばん！ …… *.xp3 (sound_codec.tpmがxp3と同フォルダ以下に必要)
+
+[渡辺製作所]
+・MELTY BLOOD …… data**.p (抽出のみ)
+
+
